@@ -1,0 +1,8 @@
+{
+  "name": "wallet-atelier",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Designer de cartes de fidélité et passes génériques Apple Wallet",
+  "scripts": { "start": "node server.js", "check": "node --check server.js" },
+  "engines": { "node": ">=18" }
+}
