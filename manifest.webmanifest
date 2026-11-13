@@ -1,11 +1,15 @@
 {
   "name": "Wallet Lab — Studio de cartes",
   "short_name": "Wallet Lab",
-  "description": "Studio graphique de cartes décoratives.",
+  "description": "Crée et personnalise des concepts visuels de cartes numériques.",
+  "lang": "fr-FR",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
   "background_color": "#090b11",
   "theme_color": "#0b0d13",
-  "icons": [{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+  "icons": [
+    {"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"},
+    {"src":"apple-touch-icon.png","sizes":"180x180","type":"image/png"}
+  ]
 }
