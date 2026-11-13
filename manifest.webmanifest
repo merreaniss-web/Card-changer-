@@ -1,12 +1,11 @@
 {
-  "name": "Wallet Studio",
-  "short_name": "Wallet Studio",
-  "description": "Créez des aperçus décoratifs de cartes numériques.",
-  "lang": "fr-FR",
+  "name": "Wallet Lab — Studio de cartes",
+  "short_name": "Wallet Lab",
+  "description": "Studio graphique de cartes décoratives.",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
-  "background_color": "#080c17",
-  "theme_color": "#0b1020",
+  "background_color": "#090b11",
+  "theme_color": "#0b0d13",
   "icons": [{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
 }
